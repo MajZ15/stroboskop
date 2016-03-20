@@ -1,4 +1,4 @@
-Študent z vpisno številko _{vpisna}_ potrjujem, da sem __edini avtor__ oddane domače naloge.
+Študent z vpisno številko _63150178_ potrjujem, da sem __edini avtor__ oddane domače naloge.
 
 [Glavna](https://rawgit.com/{študent}/stroboskop/master/stroboskop.html)
 [Izgled](https://rawgit.com/{študent}/stroboskop/izgled/stroboskop.html)
